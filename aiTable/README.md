@@ -8,13 +8,13 @@
 ## 项目
 请加星收藏仓库地址，方便以后学习使用。
 
-[github地址](https://github.com/wallace5303/nodejs-game.git)
+[github地址](https://github.com/Yyang1010/nodejs-mjaichupai.git)
 
 ## 使用方法
 ```
 
 # 下载
-git clone https://github.com/wallace5303/nodejs-game.git
+git clone https://github.com/Yyang1010/nodejs-mjaichupai.git
 
 # 进入文件
 cd nodejs-game/aiTable
